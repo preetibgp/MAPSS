@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "483085463215",
+    "project_id": "mapss-13073",
+    "storage_bucket": "mapss-13073.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483085463215:android:f8e13dced3435983b16e5a",
+        "android_client_info": {
+          "package_name": "com.example.mapss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483085463215-cb2k27g24o3l7dnok199cenhl6aa1lbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUgJyWAexx6b6ivh0l8zemHfkiatx6x_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483085463215-cb2k27g24o3l7dnok199cenhl6aa1lbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
